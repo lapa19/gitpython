@@ -1,5 +1,5 @@
 # gitpython
-gitpython scripts
+Python scripts to perform basic Git operations. Uses Gitpython (Python library to interact with Git repositories, https://gitpython.readthedocs.io/en/stable/).
 
 #gitinit.py:
 A simple script which takes commit message(commit_message), path to repository on local machine and remote repository name and performs the following in the local system path specified:
